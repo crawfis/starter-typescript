@@ -1,0 +1,14 @@
+{
+  "name": "bootcamp-project",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "ts-node src/main.ts",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.4",
+    "ts-node": "^10.9",
+    "@types/node": "^20"
+  }
+}
